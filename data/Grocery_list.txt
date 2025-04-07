@@ -1,0 +1,100 @@
+Apples
+Bananas
+Oranges
+Grapes
+Strawberries
+Blueberries
+Mangoes
+Pineapples
+Watermelons
+Lemons
+Limes
+Peaches
+Plums
+Cherries
+Pears
+Kiwis
+Avocados
+Tomatoes
+Potatoes
+Onions
+Garlic
+Carrots
+Broccoli
+Cauliflower
+Spinach
+Lettuce
+Kale
+Cabbage
+Zucchini
+Cucumbers
+Bell Peppers
+Jalapeños
+Mushrooms
+Sweet Potatoes
+Corn
+Green Beans
+Asparagus
+Celery
+Radishes
+Beets
+Eggplants
+Squash
+Pumpkin
+Okra
+Artichokes
+Ginger
+Parsley
+Cilantro
+Basil
+Mint
+Rice
+Pasta
+Bread
+Flour
+Sugar
+Salt
+Pepper
+Olive Oil
+Vegetable Oil
+Butter
+Milk
+Cheese
+Yogurt
+Eggs
+Chicken
+Beef
+Pork
+Fish
+Shrimp
+Crab
+Lobster
+Tuna
+Salmon
+Sausages
+Bacon
+Ham
+Turkey
+Tofu
+Lentils
+Chickpeas
+Black Beans
+Kidney Beans
+White Beans
+Oats
+Cereal
+Honey
+Peanut Butter
+Jam
+Coffee
+Tea
+Orange Juice
+Apple Juice
+Soda
+Chips
+Crackers
+Cookies
+Ice Cream
+Chocolate
+Nuts
+Seeds

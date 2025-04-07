@@ -1,0 +1,101 @@
+### Fruits
+- Apples
+- Bananas
+- Oranges
+- Grapes
+- Strawberries
+- Blueberries
+- Mangoes
+- Pineapples
+- Watermelons
+- Lemons
+- Limes
+- Peaches
+- Plums
+- Cherries
+- Pears
+- Kiwis
+- Avocados
+
+### Vegetables
+- Tomatoes
+- Potatoes
+- Onions
+- Garlic
+- Carrots
+- Broccoli
+- Cauliflower
+- Spinach
+- Lettuce
+- Kale
+- Cabbage
+- Zucchini
+- Cucumbers
+- Bell Peppers
+- Jalapeños
+- Mushrooms
+- Sweet Potatoes
+- Corn
+- Green Beans
+- Asparagus
+- Celery
+- Radishes
+- Beets
+- Eggplants
+- Squash
+- Pumpkin
+- Okra
+- Artichokes
+
+### Dairy
+- Milk
+- Cheese
+- Yogurt
+- Eggs
+- Butter
+
+### Meat/Seafood
+- Chicken
+- Beef
+- Pork
+- Fish
+- Shrimp
+- Crab
+- Lobster
+- Tuna
+- Salmon
+- Sausages
+- Bacon
+- Ham
+- Turkey
+- Tofu
+- Lentils
+- Chickpeas
+- Black Beans
+- Kidney Beans
+- White Beans
+
+### Grains
+- Rice
+- Pasta
+- Bread
+- Flour
+- Oats
+- Cereal
+
+### Snacks/Beverages
+- Honey
+- Peanut Butter
+- Jam
+- Coffee
+- Tea
+- Orange Juice
+- Apple Juice
+- Soda
+- Chips
+- Crackers
+- Cookies
+- Ice Cream
+- Chocolate
+- Nuts
+- Seeds
